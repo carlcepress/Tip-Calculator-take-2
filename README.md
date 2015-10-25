@@ -4,3 +4,5 @@
 that was a pain
 
 local change
+
+![tip gif] (tipCalculatorAnim.gif)
